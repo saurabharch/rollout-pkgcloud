@@ -1,5 +1,5 @@
 {
-  "name": "rollout-pkgcloud",
+  "name": "@saurabharch/rollout-pkgcloud",
   "description": "A provider agnostic cloud library for Node.js with minio support",
   "version": "1.0.0",
   "author": "Saurabh Kashyap <saurabhkashyap0001@gmail.com>",
