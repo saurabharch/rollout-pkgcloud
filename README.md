@@ -129,6 +129,7 @@ If a service does not have at least two providers, it is considered a *beta* int
   * [HP](docs/providers/hp/storage.md)
   * [Openstack](docs/providers/openstack/storage.md)
   * [Rackspace](docs/providers/rackspace/storage.md)
+  * [Minio](docs/providers/minio/storage.md)
 * **[Database](#databases)**
   * [Rackspace](docs/providers/rackspace/database.md)
 * **[DNS](#dns----beta)** *(beta)*
@@ -701,5 +702,5 @@ We welcome contribution to `pkgcloud` by any and all individuals or organization
 We are pretty flexible about these guidelines, but the closer you follow them the more likely we are to merge your pull-request.
 
 #### Author: [Charlie Robbins](https://github.com/indexzero)
-#### Contributors: [Ross Kukulinski](https://github.com/rosskukulinski), [Jarrett Cruger](https://github.com/jcrugzz), [Ken Perkins](https://github.com/kenperkins)
+#### Contributors: [Ross Kukulinski](https://github.com/rosskukulinski), [Jarrett Cruger](https://github.com/jcrugzz), [Ken Perkins](https://github.com/kenperkins) , [Saurabh Kashyap](https://github.com/saurabharch)
 #### License: MIT
