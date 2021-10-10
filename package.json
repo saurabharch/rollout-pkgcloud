@@ -1,8 +1,8 @@
 {
   "name": "rollout-pkgcloud",
   "description": "A provider agnostic cloud library for Node.js",
-  "version": "2.2.0",
-  "author": "<saurabhkashyap0001@gmail.com>",
+  "version": "1.0.0",
+  "author": "Saurabh Kashyap <saurabhkashyap0001@gmail.com>",
   "homepage": "https://gigithub.com/saurabharch/rollout-pkgcloud#readme",
   "contributors": [
     "Ross Kukulinski <ross@kukulinski.com>",

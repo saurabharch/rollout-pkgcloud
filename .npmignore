@@ -13,3 +13,12 @@ node-jscoverage
 test/*
 *.tgz
 *.tar.gz
+.git
+node_modules/
+tmp
+.idea/*
+coverage/*
+.sonar
+.vscode/*
+src/*
+.github/*
