@@ -4,9 +4,6 @@
   "version": "1.0.0",
   "author": "Saurabh Kashyap <saurabhkashyap0001@gmail.com>",
   "homepage": "https://gigithub.com/saurabharch/rollout-pkgcloud#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://gigithub.com/saurabharch/rollout-pkgcloud"
