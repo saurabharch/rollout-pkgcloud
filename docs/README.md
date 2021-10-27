@@ -28,7 +28,7 @@ If a service does not have at least two providers, it is considered a *beta* int
   * [HP](providers/hp/storage.md)
   * [Openstack](providers/openstack/storage.md)
   * [Rackspace](providers/rackspace/storage.md)
-  * [Minio](providers/minio/storage.md)
+  * [Minio](providers/minio.md)
 * **Databases**
   * [HP](providers/hp/databases.md)
   * [Openstack](providers/openstack/databases.md)
