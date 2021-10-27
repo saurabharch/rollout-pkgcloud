@@ -222,6 +222,7 @@ Each storage provider takes different credentials to authenticate; these details
 * [HP](docs/providers/hp/storage.md)
 * [Openstack](docs/providers/openstack/storage.md)
 * [Rackspace](docs/providers/rackspace/storage.md)
+* [Minio](docs/providers/minio.md)
 
 Each instance of `pkgcloud.storage.Client` returned from `pkgcloud.storage.createClient` has a set of uniform APIs:
 
